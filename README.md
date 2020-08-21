@@ -1,16 +1,13 @@
-### Hi there 👋
+# Hello 👋 
 
-<!--
-**easpaas/easpaas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Evan, a Web Developer, who is passionate about creating technology to elevate people and build community. I am also a coffee nerd, bicycle enthusiast, and an aficionado of simplicicty. 
 
-Here are some ideas to get you started:
+Find me around the web 🌍 :
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+-👨‍💻 My Active Porfolio [evanaspaas.com](evanaspaas.com)
+- 🤖 Tinkering on [Codepen](https://codepen.io/easpaas)
+- 🎒 Social Profile [LinkedIn](https://www.linkedin.com/in/evan-aspaas-a80259198/)
+
+---
+
+Thank you for checking out my work! 🖤 Evan 
