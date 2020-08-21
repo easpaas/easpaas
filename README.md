@@ -1,6 +1,6 @@
 # Hello 👋 
 
-I'm Evan, a Web Developer, who is passionate about creating technology to elevate people and build community. My go-to technologies range from  I am constantly learning and discovering new technologies, but my bread and butter range from semantic HTML, CSS (preprocessors: less, sass), JavaScript, React, Node.js, Express, Postgres, SQLite3, and MongoDB. I am also a coffee nerd, bicycle enthusiast, and an aficionado of simplicicty. 
+I'm Evan, a Web Developer, who is passionate about creating technology to elevate people and build community. I enjoy learning and discovering new technologies, but my bread and butter range from semantic HTML, CSS (preprocessors: less, sass), JavaScript, React, Node.js, Express, Postgres, SQLite3, and MongoDB. I am also a coffee nerd, bicycle enthusiast, and an aficionado of simplicicty. 
 
 Find me around the web 🌍 :
 
