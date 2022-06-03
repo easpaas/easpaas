@@ -7,6 +7,6 @@ I enjoy learning and discovering new technologies, but my bread and butter range
 I am also a coffee nerd, bicycle enthusiast, and an aficionado of simplicity. 
 
 
-Find me around the web 🌍 :
+### Find me around the web 🌍
 
-- 🎒 Social Profile [LinkedIn](https://www.linkedin.com/in/evan-aspaas-a80259198/)
+- Social Profile [LinkedIn](https://www.linkedin.com/in/evan-aspaas-a80259198/)
