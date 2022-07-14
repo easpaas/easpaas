@@ -1,10 +1,10 @@
-# Hello 👋 
+👋 Hello, I'm Evan! 
 
-I'm Evan, a Software Developer, who is passionate about creating technology to elevate people and build community. 
+I am passionate about creating technology to elevate people and build community. I enjoy learning and discovering new and exciting ways to implement new software solutions, with a user focused mentality. 
 
-I enjoy learning and discovering new technologies, but my bread and butter range from semantic HTML, CSS with preprocessors like less and sass, JavaScript, React, Node.js, Express, Postgres, SQLite3, and MongoDB. 
+I bring 4 years of development experience with nearly 2 years of working in startups using a variety of tech stacks including, React, Vue, Node, JS, TS, Java, PHP.
 
-I am also a coffee nerd, bicycle enthusiast, and an aficionado of simplicity. 
+I am also a coffee nerd, bicycle enthusiast, and an aficionado of simplicity.
 
 
 ### Find me around the web 🌍
