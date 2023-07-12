@@ -1,4 +1,4 @@
-👋 Hello, I'm Evan! 
+![Header image](https://github.com/easpaas/easpaas/assets/19723399/9018ad18-cc18-4461-8fec-fd6bb8584eb3)
 
 I am passionate about creating technology to elevate people and build community. I enjoy learning and discovering new and exciting ways to implement new software solutions, with a user focused mentality. 
 
