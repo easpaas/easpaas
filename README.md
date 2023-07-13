@@ -4,7 +4,8 @@ I'm a tech enthusiast who loves to learn about new things. Connect with me on Li
 
 ### Find me around the web 🌍
 
-- Social Profile [LinkedIn](https://www.linkedin.com/in/evan-aspaas-a80259198/)
+[![LinkedIn Profile](https://img.shields.io/badge/-evanaspaas-blue?style=flat-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/evan-aspaas-a80259198/)](https://www.linkedin.com/in/evan-aspaas-a80259198/)
+[![Gmail](https://img.shields.io/badge/-mail@aspaasevan@gmail.com-d14836?style=flat-square&logo=gmail&logoColor=white&link=mailto:aspasevan@gmail.com)](mailto:aspaasevan@gmail.com)
 
 ## Domains
 - E-commerce
