@@ -5,3 +5,9 @@ I'm a tech enthusiast who loves to learn about new things. Connect with me on Li
 ### Find me around the web 🌍
 
 - Social Profile [LinkedIn](https://www.linkedin.com/in/evan-aspaas-a80259198/)
+
+## Domains
+- E-commerce
+- Education
+- Web Development
+- Blockchain
