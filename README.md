@@ -8,7 +8,8 @@ Connect with me on LinkedIn.
 [![Gmail](https://img.shields.io/badge/-mail@aspaasevan@gmail.com-d14836?style=flat-square&logo=gmail&logoColor=white&link=mailto:aspasevan@gmail.com)](mailto:aspaasevan@gmail.com)
 
 ## Domains
-- E-commerce
-- Education
-- Web Development
-- Blockchain
+- E-commerce (SPA, PWA, Shopify, CMS)
+- Education (LMS) 
+- Web Development (SaSS, SPA, PWA) 
+- Crypto (Hedera Hashgraph)
+- Mobile App Development (Cross-platform) 
